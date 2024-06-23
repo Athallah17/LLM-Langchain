@@ -10,7 +10,7 @@ This project utilizes Google Palm and Langchain technologies to create a convers
 This approach streamlines access to critical rental information, including fleet availability, financial insights, and specific vehicle details. By leveraging real-time data processing, the system enhances operational efficiency and decision-making within the car rental company.
 
 
-##Project Highlights
+## Project Highlights
 We will build an LLM based question and answer system that will use following,
 Google Palm LLM
 Hugging face embeddings
