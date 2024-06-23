@@ -12,9 +12,9 @@ This approach streamlines access to critical rental information, including fleet
 
 ## Project Highlights
 We will build an LLM based question and answer system that will use following,
-Google Palm LLM
-Hugging face embeddings
-Streamlit for UI
-Langchain framework
-Chromadb as a vector store
-Few shot learning
+- **"Google Palm LLM"**
+- **"Hugging face embeddings"**
+- **"Streamlit for UI"**
+- **"Langchain framework"**
+- **"Chromadb as a vector store"**
+- **"Few shot learning"**
